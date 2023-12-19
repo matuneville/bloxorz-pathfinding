@@ -1,6 +1,5 @@
-use crate::graphs::{add_adj, bfs};
-
-
+mod graphs;
+use crate::graphs::{bfs, add_adj};
 
 pub fn level_solution(map : Vec<Vec<isize>>) -> isize {
     let mut map_nodes : Vec<Vec<isize>> = vec![vec![-1; map[0].len()]; map.len()]; // -1 where there are no cells
@@ -31,6 +30,7 @@ pub fn level_solution(map : Vec<Vec<isize>>) -> isize {
         }
         println!();
     }*/
+
     let root = map_nodes[src.0][src.1];
     let end: usize = map_nodes[dst.0][dst.1] as usize;
     let distances = bfs(&adj_list, root);
