@@ -1,10 +1,11 @@
-# Bloxorz: finding solution to levels
+# Bloxorz: finding solution to levels 
 
-!License: MIT
+## Introduction and License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
-## Introduction
+This repository contains an algorithmic solution to the Bloxorz game using graph modeling. The solution finds the shortest path to reach the goal.  
 
-This repository contains an algorithmic solution to the Bloxorz game using graph modeling. The solution finds the shortest path to reach the goal.
+This project is licensed under the terms of the MIT License.  
+
 
 ## Approach
 
