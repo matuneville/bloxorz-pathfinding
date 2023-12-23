@@ -1,4 +1,4 @@
-# Bloxorz: finding solution to levels 
+# Bloxorz: finding best solution to levels 
 
 ## Introduction and License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
@@ -23,6 +23,11 @@ and its elements meaning are:
 - and `2` and `3` the beginning and ending positions.  
 
 Example:  
+
+| Código | Imagen |
+|:---:|:---:|
+| `vec![vec![0, 1, 2, 1],vec![0, 1, 1, 1],vec![1, 1, 1, 3],vec![1, 1, 1, 0]];` | ![lvl](https://imgur.com/K158xN3) |
+
 
 ![image]()
 
