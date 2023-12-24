@@ -26,7 +26,7 @@ Example:
 
 | Código | Imagen |
 |:---:|:---:|
-| `vec![vec![0, 1, 2, 1],vec![0, 1, 1, 1],vec![1, 1, 1, 3],vec![1, 1, 1, 0]];` | ![Imgur](https://i.imgur.com/K158xN3.png) |
+| <table><tr><td><ul style="list-style-type:none;"><li>vec![0, 1, 2, 1]</li><li>vec![0, 1, 1, 1]</li><li>vec![1, 1, 1, 3]</li><li>vec![1, 1, 1, 0]</li></ul></td></tr></table> | ![Imgur](https://i.imgur.com/K158xN3.png) | 
 
 
 ![image]()
