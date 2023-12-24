@@ -24,12 +24,16 @@ and its elements meaning are:
 
 Example:  
 
-| Código | Imagen |
+| Code | Map |
 |:---:|:---:|
-| <table><tr><td><ul style="list-style-type:none;"><li>vec![0, 1, 2, 1]</li><li>vec![0, 1, 1, 1]</li><li>vec![1, 1, 1, 3]</li><li>vec![1, 1, 1, 0]</li></ul></td></tr></table> | ![Imgur](https://i.imgur.com/K158xN3.png) | 
+| <style>ul.no-bullets {list-style-type: none; padding: 0; margin: 0;}</style><ul class="no-bullets"><li>vec![0, 1, 2, 1]</li><li>vec![0, 1, 1, 1]</li><li>vec![1, 1, 1, 3]</li><li>vec![1, 1, 1, 0]</li></ul>   | <img src="https://i.imgur.com/K158xN3.png" alt="Map" width="200"/> | 
 
 
 ![image]()
+
+<style>ul.no-bullets {list-style-type: none; padding: 0; margin: 0;}</style><ul class="no-bullets"><li>vec![0, 1, 2, 1]</li><li>vec![0, 1, 1, 1]</li><li>vec![1, 1, 1, 3]</li><li>vec![1, 1, 1, 0]</li></ul>  
+
+
 
 Once the map is hardcoded as a matrix, the graph (with adjacency list representation) will be modeled with the following properties.  
 
