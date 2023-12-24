@@ -45,9 +45,11 @@ Once the graph is constructed, the problem of finding the shortest path to the g
 
 By applying BFS, we can efficiently find the shortest path in the graph, which corresponds to the optimal solution to the Bloxorz game.
 
-## Usage  
+## TO DO
 
+- Add return of the movements of the shortest path
+- Feature: brown positions (where the prism cannot stand upright)
+- Taking the map as input
+- Finish "Usage" at README
 
-
-## License
 
